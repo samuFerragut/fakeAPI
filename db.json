@@ -2,10 +2,10 @@
     "games": [
         {
             "name": "NINJA",
-            "platform": ["DOS", "C64", "AMIGA", "ATARI 8-BIT", "ATARI ST"],
+            "platform": ["DOS", "C64", "AMIGA", "ATARI8-BIT", "ATARIST"],
             "year": "1986",
             "genre": ["action"],
-            "theme": ["fighting", "martial arts", "ninja"],
+            "theme": ["fighting", "martialArts", "ninja"],
             "rating": 4.61,
             "img": "https://www.myabandonware.com/media/screenshots/n/ninja-8l/thumbs/ninja_8.png"
         },
@@ -14,13 +14,13 @@
             "platform": ["WIN"],
             "year": "2003",
             "genre": ["action"],
-            "theme": ["platform", "martial arts", "ninja", "puzzle elements"],
+            "theme": ["platform", "martialArts", "ninja", "puzzleElements"],
             "rating": 4.41,
             "img": "https://www.myabandonware.com/media/screenshots/i/i-ninja-jii/thumbs/i-ninja_16.png"
         },
         {
             "name": "THE NINJA",
-            "platform": ["MASTER SYSTEM"],
+            "platform": ["MASTERSYSTEM"],
             "year": "1986",
             "genre": ["action"],
             "theme": ["japan", "shooter", "ninja"],
@@ -29,7 +29,7 @@
         },
         {
             "name": "BMX NINJA",
-            "platform": ["C64", "AMSTRAD CPC"],
+            "platform": ["C64", "AMSTRADCPC"],
             "year": "1988",
             "genre": ["racing/driving", "sports"],
             "theme": ["bike/bicycling", "fighting", "ninja"],
@@ -38,43 +38,43 @@
         },
         {
             "name": "NINJA REMIX",
-            "platform": ["C64", "AMSTRAD CPC"],
+            "platform": ["C64", "AMSTRADCPC"],
             "year": "1990",
             "genre": ["action"],
-            "theme": ["martial arts", "ninja", "puzzle elements"],
+            "theme": ["martialArts", "ninja", "puzzleElements"],
             "rating": 4.43,
             "img": "https://www.myabandonware.com/media/screenshots/n/ninja-remix-7cy/thumbs/ninja-remix_3.png"
         },
         {
             "name": "BAD DUDES",
-            "platform": ["DOS", "C64", "AMIGA", "AMSTRAD CPC", "ATARI ST", "APPLE II"],
+            "platform": ["DOS", "C64", "AMIGA", "AMSTRADCPC", "ATARIST", "APPLEII"],
             "year": "1989",
             "genre": ["action"],
-            "theme": ["beat'em up/brawler", "ninja"],
+            "theme": ["brawler", "ninja"],
             "rating": 3.53,
             "img": "https://www.myabandonware.com/media/screenshots/b/bad-dudes-eo/thumbs/bad-dudes_1.png"
         },
         {
             "name": "THE LAST NINJA",
-            "platform": ["DOS", "C64", "AMIGA", "ATARI ST", "APPLE IIGS", "BBC MICRO"],
+            "platform": ["DOS", "C64", "AMIGA", "ATARIST", "APPLEIIGS", "BBCMICRO"],
             "year": "1988",
             "genre": ["action"],
-            "theme": ["martial arts", "ninja", "puzzle elements"],
+            "theme": ["martialArts", "ninja", "puzzleElements"],
             "rating": 2.32,
             "img": "https://www.myabandonware.com/media/screenshots/t/the-last-ninja-h3/thumbs/the-last-ninja_5.png"
         },
         {
             "name": "LAST NINJA 3",
-            "platform": ["C64", "AMIGA", "ATARI ST"],
+            "platform": ["C64", "AMIGA", "ATARIST"],
             "year": "1991",
             "genre": ["action"],
-            "theme": ["martial arts", "ninja", "puzzle elements"],
+            "theme": ["martialArts", "ninja", "puzzleElements"],
             "rating": 4.69,
             "img": "https://www.myabandonware.com/media/screenshots/l/last-ninja-3-70e/thumbs/last-ninja-3_2.png"
         },
         {
             "name": "NINJA GAIDEN",
-            "platform": ["MASTER SYSTEM"],
+            "platform": ["MASTERSYSTEM"],
             "year": "1992",
             "genre": ["action"],
             "theme": ["arcade", "ninja", "platform"],
@@ -83,25 +83,25 @@
         },
         {
             "name": "NINJA MASTER",
-            "platform": ["C64", "AMSTRAD CPC", "ATARI 8-BIT", "COMMODORE 16"],
+            "platform": ["C64", "AMSTRADCPC", "ATARI8-BIT", "COMMODORE16"],
             "year": "1986",
             "genre": ["action"],
-            "theme": ["martial arts", "ninja", "arcade"],
+            "theme": ["martialArts", "ninja", "arcade"],
             "rating": 3,
             "img": "https://www.myabandonware.com/media/screenshots/n/ninja-master-6gl/thumbs/ninja-master_1.png"
         },
         {
             "name": "NINJA GAIDEN",
-            "platform": ["GAME GEAR"],
+            "platform": ["GAMEGEAR"],
             "year": "1991",
             "genre": ["action"],
-            "theme": ["arcade", "ninja", "beat'em up/brawler"],
+            "theme": ["arcade", "ninja", "brawler"],
             "rating": 0.5,
             "img": "https://www.myabandonware.com/media/screenshots/n/ninja-gaiden-dhw/thumbs/ninja-gaiden_10.png"
         },
         {
             "name": "NINJA SPIRIT",
-            "platform": ["C64", "AMIGA", "AMSTRAD CPC", "ATARI ST"],
+            "platform": ["C64", "AMIGA", "AMSTRADCPC", "ATARIST"],
             "year": "1990",
             "genre": ["action"],
             "theme": ["fantasy", "ninja", "platform", "real-time"],
@@ -119,7 +119,7 @@
         },
         {
             "name": "BIONIC NINJA",
-            "platform": ["C64", "AMSTRAD CPC"],
+            "platform": ["C64", "AMSTRADCPC"],
             "year": "1989",
             "genre": ["action"],
             "theme": ["fighting", "ninja", "sci-fi/futuristic"],
@@ -128,10 +128,10 @@
         },
         {
             "name": "NINJA GAIDEN",
-            "platform": ["DOS", "C64", "AMIGA", "AMSTRAD CPC", "ATARI ST"],
+            "platform": ["DOS", "C64", "AMIGA", "AMSTRADCPC", "ATARIST"],
             "year": "1990",
             "genre": ["action"],
-            "theme": ["arcade", "ninja", "beat'em up/brawler"],
+            "theme": ["arcade", "ninja", "brawler"],
             "rating": 4.14,
             "img": "https://www.myabandonware.com/media/screenshots/n/ninja-gaiden-1tc/thumbs/ninja-gaiden_4.png"
         }
